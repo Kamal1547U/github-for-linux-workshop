@@ -1,0 +1,6 @@
+1. git init
+2. git add testing.py. = to staged file 
+3.git status
+4 git commit -m ""  = to push to our Git Version control
+5. git rm --cached testing.py = to unstaged file
+6. git restore testing.py = to restore a file from Git version control
