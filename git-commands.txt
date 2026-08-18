@@ -8,6 +8,6 @@
 8. git push origin main/master
 9. git remote -v 
 10. git remote set-url origin https://github.com/Kamal1547U/github-for-linux-workshop.git
-
-
-this is some new changes on github main branch.
+11. git branch = to check the available branches
+12. git branch kamal = to make a branch named kamal
+git switch kamal = to go to kamal branch 
