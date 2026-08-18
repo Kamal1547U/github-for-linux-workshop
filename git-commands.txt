@@ -1,0 +1,13 @@
+1. git init
+2. git add testing.py. = to staged file 
+3.git status
+4 git commit -m ""  = to push to our Git Version control
+5. git rm --cached testing.py = to unstaged file
+6. git restore testing.py = to restore a file from Git version control
+7. git clone https://github.com/Kamal1547U/github-for-linux-workshop.git
+8. git push origin main/master
+9. git remote -v 
+10. git remote set-url origin https://github.com/Kamal1547U/github-for-linux-workshop.git
+
+
+this is some new changes on github main branch.
