@@ -5,3 +5,6 @@
 5. git rm --cached testing.py = to unstaged file
 6. git restore testing.py = to restore a file from Git version control
 7. git clone https://github.com/Kamal1547U/github-for-linux-workshop.git
+8. git push origin main/master
+9. git remote -v 
+10. git remote set-url origin https://github.com/Kamal1547U/github-for-linux-workshop.git
