@@ -13,3 +13,4 @@
 git switch kamal = to go to kamal branch 
 git log = to check latest commit by HEAD
 git checkout kamal = to go to kamal branch
+git fetch = to get all branches from origin
